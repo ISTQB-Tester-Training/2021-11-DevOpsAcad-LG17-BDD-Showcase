@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="bddshowcasepackage.BDDShowcaseTest" time="0.437" errors="1" skipped="0">
+<testsuite tests="8" failures="0" name="bddshowcasepackage.BDDShowcaseTest" time="0.425" errors="1" skipped="0">
   <properties>
     <property name="idea.version" value="2020.3.4"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -59,14 +59,14 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="Erfassen von Arbeitszeiten im System" name="Berechnung der gesetzlich vorgeschriebenen Pausenzeiten #1" time="0.26"/>
+  <testcase classname="Erfassen von Arbeitszeiten im System" name="Berechnung der gesetzlich vorgeschriebenen Pausenzeiten #1" time="0.255"/>
   <testcase classname="Erfassen von Arbeitszeiten im System" name="Berechnung der gesetzlich vorgeschriebenen Pausenzeiten #2" time="0"/>
-  <testcase classname="Erfassen von Arbeitszeiten im System" name="Berechnung der gesetzlich vorgeschriebenen Pausenzeiten #3" time="0"/>
-  <testcase classname="Erfassen von Arbeitszeiten im System" name="Berechnung der gesetzlich vorgeschriebenen Pausenzeiten #4" time="0.022"/>
-  <testcase classname="Erfassen von Arbeitszeiten im System" name="Berechnung der gesetzlich vorgeschriebenen Pausenzeiten #5" time="0.016"/>
-  <testcase classname="Erfassen von Arbeitszeiten im System" name="Berechnung der gesetzlich vorgeschriebenen Pausenzeiten #6" time="0.015"/>
-  <testcase classname="Erfassen von Arbeitszeiten im System" name="Berechnung der gesetzlich vorgeschriebenen Pausenzeiten #7" time="0.032"/>
-  <testcase classname="Erfassen von Arbeitszeiten im System" name="Verteilung der Stunden auf ein Projekt" time="0.092">
+  <testcase classname="Erfassen von Arbeitszeiten im System" name="Berechnung der gesetzlich vorgeschriebenen Pausenzeiten #3" time="0.016"/>
+  <testcase classname="Erfassen von Arbeitszeiten im System" name="Berechnung der gesetzlich vorgeschriebenen Pausenzeiten #4" time="0.016"/>
+  <testcase classname="Erfassen von Arbeitszeiten im System" name="Berechnung der gesetzlich vorgeschriebenen Pausenzeiten #5" time="0.015"/>
+  <testcase classname="Erfassen von Arbeitszeiten im System" name="Berechnung der gesetzlich vorgeschriebenen Pausenzeiten #6" time="0.038"/>
+  <testcase classname="Erfassen von Arbeitszeiten im System" name="Berechnung der gesetzlich vorgeschriebenen Pausenzeiten #7" time="0"/>
+  <testcase classname="Erfassen von Arbeitszeiten im System" name="Verteilung der Stunden auf ein Projekt" time="0.085">
     <error message="The step &quot;der Mitarbeiter seine Arbeitszeit auf Projekte verteilt&quot; is undefined. You can implement it using the snippet(s) below:
 
 @Wenn(&quot;der Mitarbeiter seine Arbeitszeit auf Projekte verteilt&quot;)

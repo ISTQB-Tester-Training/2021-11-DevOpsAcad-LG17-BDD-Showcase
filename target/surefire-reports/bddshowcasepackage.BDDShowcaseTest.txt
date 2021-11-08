@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: bddshowcasepackage.BDDShowcaseTest
 -------------------------------------------------------------------------------
-Tests run: 8, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.235 sec <<< FAILURE!
-Verteilung der Stunden auf ein Projekt(Erfassen von Arbeitszeiten im System)  Time elapsed: 0.092 sec  <<< ERROR!
+Tests run: 8, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.16 sec <<< FAILURE!
+Verteilung der Stunden auf ein Projekt(Erfassen von Arbeitszeiten im System)  Time elapsed: 0.085 sec  <<< ERROR!
 io.cucumber.junit.UndefinedStepException: The step "der Mitarbeiter seine Arbeitszeit auf Projekte verteilt" is undefined. You can implement it using the snippet(s) below:
 
 @Wenn("der Mitarbeiter seine Arbeitszeit auf Projekte verteilt")
